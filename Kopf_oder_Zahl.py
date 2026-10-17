@@ -1,7 +1,7 @@
 
 import random
 
-wiederholungen = 1000
+wiederholungen = 100000
 Kopf = 0
 Zahl = 0
 Streak = 0
