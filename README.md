@@ -1,0 +1,3 @@
+Just an head or tails simulator.
+
+One of my first projects, so nothing special...
